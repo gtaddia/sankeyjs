@@ -1,0 +1,14 @@
+{
+  "name": "@danielefadda/sankey-with-plotly",
+  "main": "21d2cf32c5292f6e@740.js",
+  "version": "740.0.0",
+  "homepage": "https://observablehq.com/@danielefadda/sankey-with-plotly",
+  "author": {
+    "name": "danielefadda",
+    "url": "https://observablehq.com/@danielefadda"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
