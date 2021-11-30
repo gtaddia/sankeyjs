@@ -1,5 +1,5 @@
 // https://observablehq.com/@danielefadda/sankey-with-plotly@740
-import define1 from "./e93997d5089d7165@2303.js";
+import define1 from "https://raw.githubusercontent.com/gtaddia/sankeyjs/main/e93997d5089d7165%402303.js";
 
 export default function define(runtime, observer) {
   const main = runtime.module();
