@@ -1,0 +1,23 @@
+date_id_str,Group,desc2,Date_ID,PARENT,CHILD,Description,NbChiamate
+2021-11-23,prospect,Prospect Accoglienza,23/11/2021 00:00,RN0,RN1,Accoglienza,355
+2021-11-23,client,Client Accoglienza,23/11/2021 00:00,RN0,RN2,Accoglienza,668
+2021-11-23,client,Client Proposta + 30 Giorni,23/11/2021 00:00,RN0,RN40,Menu 109 -30 gg,44
+2021-11-23,prospect,Prospect Preventivo Si,23/11/2021 00:00,RN1,RN3,Menu 34 (preventivo si),199
+2021-11-23,prospect,Prospect Preventivo No,23/11/2021 00:00,RN1,RN4,Menu 34 (preventivo no),147
+2021-11-23,prospect,Prospect Modifica Preventivo,23/11/2021 00:00,RN15,RN6,Menu 35 Modifica prev,2
+2021-11-23,prospect,Prospect Preventivo RNP,23/11/2021 00:00,RN17,RN17,Menu 36/43 altro,3
+2021-11-23,prospect,Prospect Preventivo Auto Moto Van,23/11/2021 00:00,RN17,RN18,Menun 36/43 auto moto van,19
+2021-11-23,prospect,Menu 43 no scelta,23/11/2021 00:00,RN17,RN28,Menu 43 no scelta,1
+2021-11-23,prospect,Prospect Preventivo Si Bonus Malus,23/11/2021 00:00,RN18,RN19,Menu 37 bonus malus,65
+2021-11-23,prospect,Prospect Preventivo Bersani,23/11/2021 00:00,RN18,RN20,menu 37 bersani,18
+2021-11-23,prospect,Prospect Preventivo No Bonus Malus,23/11/2021 00:00,RN18,RN21,menu 37 no bonus malus,12
+2021-11-23,prospect,Menu 37 no scelta,23/11/2021 00:00,RN18,RN29,Menu 37 no scelta,1
+2021-11-23,prospect,Prospect Preventivo Si Bonus Malus,23/11/2021 00:00,RN19,RN19,Menu 37 bonus malus,12
+2021-11-23,prospect,Prospect Preventivo Bersani,23/11/2021 00:00,RN19,RN20,menu 37 bersani,7
+2021-11-23,prospect,Prospect Preventivo No Bonus Malus,23/11/2021 00:00,RN19,RN21,menu 37 no bonus malus,3
+2021-11-23,prospect,Menu 37 no scelta,23/11/2021 00:00,RN19,RN29,Menu 37 no scelta,2
+2021-11-23,client,Client Rinnovo,23/11/2021 00:00,RN2,RN30,Menu 61 rnw,155
+2021-11-23,client,Client Modifica,23/11/2021 00:00,RN2,RN31,menu 61 modifiche,196
+2021-11-23,client,Client Sinistri,23/11/2021 00:00,RN2,RN32,menu 61 sx,50
+2021-11-23,client,Client Recupero Documenti Assicurativi,23/11/2021 00:00,RN2,RN33,menu 61 doc assicurativi,20
+2021-11-23,client,Client Assistenza Pagamento,23/11/2021 00:00,RN2,RN68,menu 61 assistenza pagamento,143
